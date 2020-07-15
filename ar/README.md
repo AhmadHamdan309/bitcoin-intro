@@ -177,13 +177,15 @@
 <ol>
   <li><a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">معيار البيتكوين</a></li>
   <li><a href="https://youtu.be/OrMHQhDKhrU" target="_blank">مقدمة في الفكر النمساوي للبيتكوين</a></li>
+   <li><a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">استمع لمقدمة كتاب معيار البيتكوين باللغة الإنجليزية</a></li>
+
 </ol>
 
 <h6 id="read">اقرأ</h6>
 <ol>
   <li><a href="https://www.amazon.com/dp/1641990503" target="_blank">كتاب البيتكوين الصغير</a></li>
   <li><a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">السيادة عبر الرياضيات</a></li>
-  <li><a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">معيار البيتكوين</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">استمع </a> للمقدمة)</li>
+    <li><a href="https://saifedean.com/wp-content/uploads/2020/07/Ammous-Arabic-Bitcoin-Standard.pdf" target="_blank">كتاب معيار البيتكوين النسخة العربية مجاناً </a> </li>
 </ol>
 
 <hr>
